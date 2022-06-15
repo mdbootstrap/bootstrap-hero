@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-hero",
+  "version": "1.0.1",
+  "description": "Responsive Hero built with Bootstrap 5. Examples include hero image, hero banner, hero slider, hero section & more.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-hero.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "hero",
+    "responsive",
+    "cards",
+    "responsive-design",
+    "bootstrap-cards",
+    "bootstrap5",
+    "bootstrap5-template"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-hero/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/hero/"
+}
