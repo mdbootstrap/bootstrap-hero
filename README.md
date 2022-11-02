@@ -58,7 +58,7 @@ Hero banner is a full width card located at the beginning of a page.
 
 [▶️ Subscribe to YouTube channel for web development tutorials & resources](https://www.youtube.com/MDBootstrap?sub_confirmation=1)
 
-
+4. Go wild and be free!4. Go wild and be free!4. Go wild and be free!4. Go wild and be free!
 
 ___
 
